@@ -1,0 +1,4 @@
+SECRET_KEY=Enter your secret key
+DATABASE_URL=postgresql://postgres:ypurpassword@localhost:5432/make your db
+ALPHA_VANTAGE_KEY=used diffrent name (by mistake) use your sectert key
+ALGORITHM =use algorithm that u want 
